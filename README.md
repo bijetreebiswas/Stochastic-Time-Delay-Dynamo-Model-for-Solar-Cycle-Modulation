@@ -18,3 +18,7 @@ This repository contains a Python implementation of a low‑order, stochasticall
 - `matplotlib`
 - `tqdm` (optional, for progress bars)
 
+## Results
+<img width="1713" height="705" alt="image" src="https://github.com/user-attachments/assets/a58d9880-3672-4955-b0d6-0c061cdfe73f" />
+Deterministic cycle period: 152.5 ± 0.9 years
+Stochastic cycle period: 152.4 ± 1.1 years
